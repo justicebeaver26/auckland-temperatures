@@ -66,6 +66,7 @@ This project demonstrates how **MATLAB** can be used to model, visualize, and in
 ---
 
 ## Files Included  
+- `Temperatures.mlx` → MATLAB Live Script code with analysis (downloadable).
 - `Temperatures.html` → MATLAB Live Script exported as an html file.    
 - `AKLJan2024Temp.csv` → Dataset.  
 
