@@ -65,6 +65,11 @@ This project demonstrates how **MATLAB** can be used to model, visualize, and in
 
 ---
 
+## 📊 Report  
+- [View Interactive Report (HTML)](https://justicebeaver26.github.io/auckland-temperatures/Temperatures.html)  
+
+---
+
 ## Files Included  
 - `Temperatures.mlx` → MATLAB Live Script code with analysis (downloadable).
 - `Temperatures.html` → MATLAB Live Script exported as an html file.    
