@@ -1,0 +1,3 @@
+*.m linguist-language=MATLAB
+*.mlx linguist-language=MATLAB
+*.html linguist-language=HTML
